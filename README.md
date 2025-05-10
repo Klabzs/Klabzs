@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Klabzs
-- 👀 I’m interested in everything computer related.
-- 🌱 I’m currently learning C++.
+- 🔖 Certified backend developer.
 - ⚡ Fun fact: Sneaker addict.
 
 <!---
